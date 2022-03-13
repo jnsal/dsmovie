@@ -6,7 +6,6 @@ import './styles.css'
 
 function Navbar() {
   // const params = new URLSearchParams(window.location.search)
-
   return (
     <header>
       <nav className="container">
